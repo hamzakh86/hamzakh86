@@ -21,14 +21,6 @@ Here are some ideas to get you started:
 
 As a Web Developer passionate about creating web experiences, I excel in both front-end and back-end technologies. I thrive on tackling new challenges and contributing to innovative projects. I'm open to collaborative opportunities and committed to ongoing professional development.
 
-📖 Continuous learning and exploring new technologies are central to my journey as a Web Developer. I am enthusiastic about staying updated with the latest industry advancements, enabling me to deliver innovative solutions to real-world problems.
-
-🔍 I am open to new opportunities to contribute to impactful projects and teams. Whether it's a full-time role, part-time gig, or an exciting internship, I'm ready to take on challenges and make a meaningful impact.
-
-🤝 If you're interested in connecting, discussing potential collaborations, or just talking tech, feel free to reach out. I'm always open to meeting fellow developers, industry professionals, and enthusiasts.
-
-🌟 Let's connect and embark on a journey of creating remarkable software solutions together!
-
 # 🖥️ Technical Skills:
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -96,7 +88,16 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a>
-</p>
+</p
+    
+📖 Continuous learning and exploring new technologies are central to my journey as a Web Developer. I am enthusiastic about staying updated with the latest industry advancements, enabling me to deliver innovative solutions to real-world problems.
+
+🔍 I am open to new opportunities to contribute to impactful projects and teams. Whether it's a full-time role, part-time gig, or an exciting internship, I'm ready to take on challenges and make a meaningful impact.
+
+🤝 If you're interested in connecting, discussing potential collaborations, or just talking tech, feel free to reach out. I'm always open to meeting fellow developers, industry professionals, and enthusiasts.
+
+🌟 Let's connect and embark on a journey of creating remarkable software solutions together!
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
