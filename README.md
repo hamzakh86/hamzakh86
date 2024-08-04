@@ -1,4 +1,3 @@
-
 <!--
 **hamzakh86/hamzakh86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hamza+Khaled..;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
-
 ### Hello! Welcome to my GitHub profile. I'm Hamza Khaled.
 
 As a Web Developer passionate about creating web experiences, I excel in both front-end and back-end technologies. I thrive on tackling new challenges and contributing to innovative projects. I'm open to collaborative opportunities and committed to ongoing professional development.
@@ -94,13 +93,10 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a>
 </p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
