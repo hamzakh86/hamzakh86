@@ -1,18 +1,28 @@
 <!--
-**hamzakh86/hamzakh86** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**hamzakh86/hamzakh86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hamza+Khaled..;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
-</p>
-
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hamza+Khaled..;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
 ### Hello! Welcome to my GitHub profile. I'm Hamza Khaled.
 
 As a Web Developer passionate about creating web experiences, I excel in both front-end and back-end technologies. I thrive on tackling new challenges and contributing to innovative projects. I'm open to collaborative opportunities and committed to ongoing professional development.
 
-# 🖥️ Technical Skills
-
-<div align="center">
+# 🖥️ Technical Skills:
+<p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -76,13 +86,17 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+  
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
   </a>
-</div>
+</p>
 
-<br>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a>
+</p
+    
 📖 Continuous learning and exploring new technologies are central to my journey as a Web Developer. I am enthusiastic about staying updated with the latest industry advancements, enabling me to deliver innovative solutions to real-world problems.
 
 🔍 I am open to new opportunities to contribute to impactful projects and teams. Whether it's a full-time role, part-time gig, or an exciting internship, I'm ready to take on challenges and make a meaningful impact.
@@ -91,25 +105,19 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 
 🌟 Let's connect and embark on a journey of creating remarkable software solutions together!
 
-# 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false" alt="GitHub Streak">
-  <br><br>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
-## See More
+## See More :
 
 - Give a visit to my [LinkedIn Profile](https://www.linkedin.com/in/hamza-khaled-16a114290/)
 
