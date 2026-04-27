@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hamza+Khaled..;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=30&lines=Hi👋+I'm+Hamza+Khaled..;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+</p>
+
 ### Hello! Welcome to my GitHub profile. I'm Hamza Khaled.
 
 As a Web Developer passionate about creating web experiences, I excel in both front-end and back-end technologies. I thrive on tackling new challenges and contributing to innovative projects. I'm open to collaborative opportunities and committed to ongoing professional development.
 
 # 🖥️ Technical Skills:
-<p align="left">
+
+<p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -32,17 +33,38 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -56,6 +78,9 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
   </a>
@@ -65,38 +90,10 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
-  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a>
-</p
-    
+---
+
 📖 Continuous learning and exploring new technologies are central to my journey as a Web Developer. I am enthusiastic about staying updated with the latest industry advancements, enabling me to deliver innovative solutions to real-world problems.
 
 🔍 I am open to new opportunities to contribute to impactful projects and teams. Whether it's a full-time role, part-time gig, or an exciting internship, I'm ready to take on challenges and make a meaningful impact.
@@ -105,17 +102,22 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 
 🌟 Let's connect and embark on a journey of creating remarkable software solutions together!
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false" alt="GitHub Streak">
+  <br/><br/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
 
 ## See More :
 
