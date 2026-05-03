@@ -1,18 +1,3 @@
-<!--
-**hamzakh86/hamzakh86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hamza+Khaled..;Web+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
 </p>
@@ -23,7 +8,7 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 
 # 🖥️ Technical Skills:
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -90,7 +75,7 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 📖 Continuous learning and exploring new technologies are central to my journey as a Web Developer. I am enthusiastic about staying updated with the latest industry advancements, enabling me to deliver innovative solutions to real-world problems.
 
@@ -102,7 +87,6 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 
 # 📊 GitHub Stats:
 
-<!-- Tout est sur la même ligne - plus de <p> séparés ! -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true" />
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false" />
@@ -117,5 +101,4 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 
 - Give a visit to my [LinkedIn Profile](https://www.linkedin.com/in/hamza-khaled-16a114290/)
 
-<!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/hamzakh86.hamzakh86.svg)
