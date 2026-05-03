@@ -23,7 +23,6 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 
 # 🖥️ Technical Skills:
 
-<!-- Fixed: Technologies are now aligned in a single row/flow from left to right -->
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -102,23 +101,17 @@ As a Web Developer passionate about creating web experiences, I excel in both fr
 🌟 Let's connect and embark on a journey of creating remarkable software solutions together!
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false" alt="GitHub Streak">
-</p>
-<p align="left">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
+
+<!-- Tout est sur la même ligne - plus de <p> séparés ! -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hamzakh86&theme=radical&border=false&include_all_commits=true&count_private=true" />
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=radical&hide_border=false" />
+<img align="left" width="180px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" />
+
+<br clear="all"/>
 
 ## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 ## See More :
 
