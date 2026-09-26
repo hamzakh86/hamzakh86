@@ -182,7 +182,7 @@ Responsive property-listing SPA — full CRUD, JWT + Firebase + Google OAuth, ad
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-khaled-16a114290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://hamza-khaled.netlify.app)
 
-![Profile Views](https://visitor-badge-deno.deno.dev/hamzakh86.hamzakh86.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=hamzakh86&style=flat-square&color=6C63FF&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E7CFF&height=100&section=footer" width="100%"/>
 
