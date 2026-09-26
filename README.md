@@ -1,101 +1,44 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E7CFF&height=210&section=header&text=Hamza%20Khaled&fontSize=48&fontColor=fff&desc=Full-Stack%20JavaScript%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20React%20Native%20%C2%B7%20Angular&descSize=17&descColor=f0f0ff&animation=fadeIn" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hamza+Khaled;Full-Stack+JavaScript+Developer;React+%7C+Node.js+%7C+React+Native+%7C+Angular;10%2B+Production+Apps+Shipped;Open+to+Full-Time+%26+Work-Study+Roles" alt="Typing SVG" />
-
-<br/>
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://hamza-khaled.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-khaled-79916b428)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.khaled5158@gmail.com)
-[![Location](https://img.shields.io/badge/Sousse,_Tunisia-333333?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.khaled5158@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
 
 <br/>
 
-## 👋 About Me
-
-**Full-Stack JavaScript Developer** with a proven track record: **10+ web & mobile applications shipped to production** across **3 professional experiences**, from solo-built e-commerce platforms to enterprise MLOps monitoring systems.
-
-I build with **React.js, Angular, Node.js and React Native**, design **RESTful APIs** secured with **JWT**, and ship them through **CI/CD pipelines** (GitHub Actions, Docker, Kubernetes, GitOps). My most recent work extends into **AI/MLOps** — real-time monitoring dashboards, RAG pipelines, and model observability.
-
-Currently finishing my engineering degree in **Computer Science at École Polytechnique de Sousse (EPS)**, and **actively looking for a Full-Stack Developer position** (full-time or work-study) to bring that production experience to a team.
-
 <table>
 <tr>
-<td align="center"><b>🚀 10+</b><br/>Apps in Production</td>
-<td align="center"><b>💼 3</b><br/>Professional Experiences</td>
-<td align="center"><b>🌐 20+</b><br/>REST API Endpoints Built</td>
-<td align="center"><b>📱 3</b><br/>Platforms (Web / Mobile / Admin)</td>
-</tr>
-</table>
+<td width="62%" valign="top">
 
----
+### 👋 About Me
 
-## 🧰 Tech Stack
+**Full-Stack JavaScript Developer** with **10+ applications shipped to production** across **3 professional experiences** — from a 4-app e-commerce platform built solo, to an enterprise **MLOps/AI monitoring platform**.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+I build end-to-end with **React.js, Angular, Node.js & React Native**, design **RESTful APIs** secured with **JWT**, and ship through **CI/CD** (GitHub Actions, Docker, Kubernetes, GitOps). My latest role pushed me into **AI/MLOps**: real-time drift monitoring, RAG pipelines, and observability with Prometheus/Grafana.
 
-**Frontend**
+Engineering student in **Computer Science at École Polytechnique de Sousse (EPS)**, currently **open to Full-Stack Developer roles** — full-time or work-study.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+**🎯 Right now:** wrapping up an MLOps internship at ITGate Group, freelancing on full-stack client projects, and actively interviewing.
 
 </td>
-<td valign="top" width="50%">
+<td width="38%" valign="top">
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**DevOps & MLOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & Testing**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+|  |  |
+|---|---|
+| 🎓 | Computer Engineering @ EPS |
+| 💼 | 3 professional experiences |
+| 🚀 | 10+ production apps |
+| 🌐 | 20+ REST endpoints built |
+| 📱 | Web · Mobile · Admin platforms |
+| 🌍 | Sousse, Tunisia |
+| 🗣️ | AR · FR (B2) · EN (B1) |
 
 </td>
 </tr>
@@ -103,49 +46,108 @@ Currently finishing my engineering degree in **Computer Science at École Polyte
 
 ---
 
-## 💼 Experience
+### 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,redux,tailwind,nodejs,express,nestjs,fastapi,mongodb,postgres,redis,sqlite,docker,kubernetes,git,github,figma,jest,postman&perline=11" />
+
+</div>
+
+<div align="center">
+
+**MLOps / AI:** MLflow · RAG · Scikit-Learn · FAISS · ArgoCD · Prometheus · Grafana &nbsp;|&nbsp; **Mobile:** React Native · Expo
+
+</div>
+
+---
+
+### 💼 Experience
 
 <table>
-<tr><td>🤖</td><td><b>MLOps & AI Platform Engineer Intern</b> — ITGate Group · Tunisia <i>(Aug 2026)</i><br/>React monitoring dashboards · FastAPI backend (JWT/OAuth2) · CI/CD to GHCR · GitOps deployment (ArgoCD, Kubernetes, HPA) · Prometheus/Grafana · RAG engine (Groq LLM + FAISS) · MLflow Model Registry</td></tr>
-<tr><td>💻</td><td><b>Freelance — Full-Stack Web & Mobile Developer</b> — Remote <i>(Nov 2025 – Present)</i><br/>4 full-stack projects delivered end-to-end for independent clients — requirements, UI/UX, API, deployment, client communication</td></tr>
-<tr><td>🎨</td><td><b>Front-End Developer Intern</b> — CelestialWave Digital · Sousse <i>(Jun 2025 – Oct 2025)</i><br/>Official web interface for AL SHAMELA Sports (<a href="https://www.universelsport.com/">universelsport.com</a>) — Next.js, TypeScript, Tailwind, TanStack Query, microservices integration</td></tr>
-<tr><td>🎓</td><td><b>Full-Stack JS Developer Trainee</b> — GoMyCode · Sousse <i>(Sep 2023 – Feb 2024)</i></td></tr>
+<tr>
+<td align="center">🤖</td>
+<td>
+<b>MLOps & AI Platform Engineer Intern</b> — ITGate Group · Tunisia <sub><i>Aug 2026</i></sub><br/>
+<sub>React monitoring dashboards · FastAPI (JWT/OAuth2) · CI/CD → GHCR · GitOps (ArgoCD, Kubernetes, HPA) · Prometheus/Grafana · RAG (Groq LLM + FAISS) · MLflow</sub>
+</td>
+</tr>
+<tr>
+<td align="center">💻</td>
+<td>
+<b>Freelance — Full-Stack Web & Mobile Developer</b> — Remote <sub><i>Nov 2025 – Present</i></sub><br/>
+<sub>4 full-stack projects delivered end-to-end: requirements, UI/UX, API, deployment, client communication</sub>
+</td>
+</tr>
+<tr>
+<td align="center">🎨</td>
+<td>
+<b>Front-End Developer Intern</b> — CelestialWave Digital · Sousse <sub><i>Jun 2025 – Oct 2025</i></sub><br/>
+<sub>Official interface for AL SHAMELA Sports — <a href="https://www.universelsport.com/">universelsport.com</a> · Next.js, TypeScript, Tailwind, TanStack Query, microservices</sub>
+</td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td>
+<b>Full-Stack JS Developer Trainee</b> — GoMyCode · Sousse <sub><i>Sep 2023 – Feb 2024</i></sub>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### 🛒 Hachka
-E-commerce platform — **4 connected apps** (mobile, client site, admin, backend) built solo in 10 weeks. 20+ REST endpoints, JWT, full CRUD admin dashboard with KPIs.
-
-`React Native` `Angular` `Node.js` `MongoDB`
-
-[View on GitHub →](https://github.com/hamzakh86)
-
+<h4>🛒 Hachka</h4>
+E-commerce platform — <b>4 connected apps</b> (mobile, client, admin, backend) built solo in 10 weeks. 20+ REST endpoints, JWT, full CRUD admin with KPIs.
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/hamzakh86">View on GitHub →</a>
 </td>
 <td width="33%" valign="top">
-
-### 🎓 PolySpace
-Collaborative platform for EPS students — project tracking, internship/PFE board, exam resources, Q&A space, real-time Trello-style task boards.
-
-`React` `Node.js` `WebSockets` `MongoDB`
-
-[View on GitHub →](https://github.com/hamzakh86/polyspace) · [Live Demo →](https://teamspaces.netlify.app)
-
+<h4>🎓 PolySpace</h4>
+Collaborative platform for EPS students — project tracking, internship/PFE board, exam resources, Q&A space, real-time Trello-style boards.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/hamzakh86/polyspace">GitHub</a> · <a href="https://teamspaces.netlify.app">Live Demo →</a>
 </td>
 <td width="33%" valign="top">
-
-### 🏠 Real Estate Marketplace
+<h4>🏠 Real Estate Marketplace</h4>
 Responsive property-listing SPA — full CRUD, JWT + Firebase + Google OAuth, advanced filters, SSR.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<br/><br/>
+<a href="https://github.com/hamzakh86/A-modern-real-estate-">GitHub</a> · <a href="https://hamzaestate.netlify.app">Live Demo →</a>
+</td>
+</tr>
+</table>
 
-`Next.js` `Redux Toolkit` `Firebase`
+---
 
-[View on GitHub →](https://github.com/hamzakh86/A-modern-real-estate-) · [Live Demo →](https://hamzaestate.netlify.app)
+### 🎓 Education & 📜 Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- **EPS** — Computer Engineering *(Sep 2026 – Present)*
+- **EPS** — Prep Cycle, Math & Physics *(Sep 2024 – Jun 2026)*
+- **GoMyCode** — Full-Stack JS Bootcamp *(2023 – 2024)*
+
+</td>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/Full_Stack_JS-GoMyCode-6C63FF?style=flat-square)
+![](https://img.shields.io/badge/Backend_%2B_Frontend_%2B_Algo-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp)
+![](https://img.shields.io/badge/API_Fundamentals-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Docker_%2B_K8s_%2B_Linux-KodeKloud-00ADEF?style=flat-square)
+![](https://img.shields.io/badge/ML_%2B_Data_Analysis-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp)
+![](https://img.shields.io/badge/Scrum_for_DevOps-SCRUMstudy-009FDA?style=flat-square)
 
 </td>
 </tr>
@@ -153,46 +155,37 @@ Responsive property-listing SPA — full CRUD, JWT + Firebase + Google OAuth, ad
 
 ---
 
-## 🎓 Education
-
-- **École Polytechnique de Sousse (EPS)** — Computer Engineering *(Sep 2026 – Present)*
-- **École Polytechnique de Sousse (EPS)** — Preparatory Cycle, Math & Physics *(Sep 2024 – Jun 2026)*
-- **GoMyCode** — Full-Stack JavaScript Bootcamp *(Sep 2023 – Feb 2024)*
-
-## 📜 Certifications
-
-![](https://img.shields.io/badge/Full_Stack_JS-GoMyCode_2024-6C63FF?style=flat-square)
-![](https://img.shields.io/badge/Backend_%2B_Frontend_%2B_Algorithms-freeCodeCamp_2024-0A0A23?style=flat-square&logo=freecodecamp)
-![](https://img.shields.io/badge/API_Fundamentals-Postman_2024-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/Docker_%2B_K8s_%2B_DevOps_%2B_Linux-KodeKloud_2025-00ADEF?style=flat-square)
-![](https://img.shields.io/badge/ML_%2B_Data_Analysis-freeCodeCamp_2025-0A0A23?style=flat-square&logo=freecodecamp)
-![](https://img.shields.io/badge/Scrum_for_Ops_%26_DevOps-SCRUMstudy_2025-009FDA?style=flat-square)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hamzakh86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzakh86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=tokyonight&hide_border=true"/>
 </div>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=tokyonight&no-frame=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=tokyonight&no-frame=true&margin-w=6&row=1"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzakh86&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect — Open to Full-Stack Developer opportunities (Full-Time / Work-Study)
+**📫 Let's build something — open to Full-Stack Developer roles (Full-Time / Work-Study)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-khaled-79916b428)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white)](https://hamza-khaled.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.khaled5158@gmail.com)
 
 ![Profile Views](https://visitor-badge-deno.deno.dev/hamzakh86.hamzakh86.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E7CFF&height=100&section=footer" width="100%"/>
 
 </div>
