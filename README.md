@@ -157,20 +157,12 @@ Responsive property-listing SPA — full CRUD, JWT + Firebase + Google OAuth, ad
 ### <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="24"/> GitHub Activity
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzakh86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzakh86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzakh86&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 <div align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakh86&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hamzakh86&theme=tokyonight&no-frame=true&margin-w=6&row=1"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzakh86&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </div>
 
 ---
